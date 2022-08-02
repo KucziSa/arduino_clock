@@ -1,7 +1,7 @@
 <h1 text align = "center"🕑 Simple arudino clock 🕑</h1> 
 
 <h1 text align = "center">Hardware: </h1>
-<p text align = "center">Arduino</p>
+<p text align = "left">Arduino</p>
 <p text align = "left">TM1637 display</p>
 <p text align = "left">RTC module DS1307</p>
 
